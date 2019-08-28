@@ -1,6 +1,5 @@
 # Winona
-This Website can be used as a resource to learn about things to do in Winona, MN.
-Here are a couple state parks to visit:
+This website contains information about a few of the many notable parks that are found in the Winona area. Click on the links below to find out more. 
 
 * [White Water State Park](https://colehagen15.github.io/Winona/whitewater)
 * [John A. Latsche State Park](https://colehagen15.github.io/Winona/latsch)
