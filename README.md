@@ -9,6 +9,7 @@ This website contains information about a few of the many notable parks that are
 ---
 * Bonus Link: [Ice Climbing in Winona](https://colehagen15.github.io/Winona/caylanvideo)
 &nbsp;
+---
 
 ![Winona, MN](https://www.exploreminnesota.com/memberimage.ashx?id=11200&width=800&mar=1)
 &nbsp;
