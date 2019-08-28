@@ -8,3 +8,6 @@ This website contains information about a few of the many notable parks that are
 &nbsp;
 
 ![Winona, MN](https://www.exploreminnesota.com/memberimage.ashx?id=11200&width=800&mar=1)
+&nbsp;
+
+Arial View of Winona, MN
