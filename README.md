@@ -11,5 +11,5 @@ This website contains information about a few of the many notable parks that are
 &nbsp;
 ---
 
-![Winona, MN](https://www.exploreminnesota.com/memberimage.ashx?id=11200&width=800&mar=1)
+![Winona, MN](https://github.com/colehagen15/Winona/blob/master/Website%20Pictures/Winona%20Picture.jpg)
 
