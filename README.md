@@ -7,7 +7,7 @@ This website contains information about a few of the many notable parks that are
 ---
 * [Lake Park](https://colehagen15.github.io/Winona/lakepark)
 ---
-* Bonus Link: [Ice Climbing in Winona](https://colehagen15.github.io/Winona/caylanvideo)
+* `Bonus Link:` [Ice Climbing in Winona](https://colehagen15.github.io/Winona/caylanvideo)
 &nbsp;
 ---
 
