@@ -15,5 +15,5 @@
 &nbsp;
 ---
 
-![Winona, MN](https://github.com/colehagen15/Winona/blob/master/Website%20Pictures/Winona%20Picture.jpg)
+![Winona, MN](Website%20Pictures/Winona%20Picture.jpg)
 
