@@ -12,4 +12,4 @@ Lake Park is located in the heart of the city of Winona. It has many activites t
 
 &nbsp;
 
-![Lake Park Winona](https://www.cityofwinona.com/wp-content/uploads/2019/04/DSC_0205.jpg)
+![Lake Park Winona](Website pictures/Lake%20park.jpg)
