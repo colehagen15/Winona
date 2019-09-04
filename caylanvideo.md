@@ -6,4 +6,4 @@
 [![Ice Climbing in Winona](Ice%20climbing%20winona.jpg)](https://www.youtube.com/watch?v=LRCcMPP7vLM&t=2s)
 &nbsp;
 
-_Video By Caylan Larson, subscribe to his YouTube Channel [here](https://www.youtube.com/channel/UCXBGLyqX8ueGytzLcfU8KsQ)_
+> _Video By Caylan Larson, subscribe to his YouTube Channel [here](https://www.youtube.com/channel/UCXBGLyqX8ueGytzLcfU8KsQ)_
